@@ -1,4 +1,10 @@
-predicatebuilder
-================
+Query Predicates Builder Example (C#)
+================================
 
-Dynamic query predicate example with order and filters Linq C#
+Simple example to builder dynamic query predicates with filters and orders.
+
+Used stuff:
+DDD
+Entity Framework
+Dynamic linq
+Expressions
