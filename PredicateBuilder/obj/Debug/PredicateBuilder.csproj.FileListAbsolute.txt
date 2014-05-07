@@ -1,0 +1,9 @@
+C:\dev\JPLAY\PredicateBuilder\PredicateBuilder\bin\Debug\PredicateBuilder.exe.config
+C:\dev\JPLAY\PredicateBuilder\PredicateBuilder\bin\Debug\PredicateBuilder.exe
+C:\dev\JPLAY\PredicateBuilder\PredicateBuilder\bin\Debug\PredicateBuilder.pdb
+C:\dev\JPLAY\PredicateBuilder\PredicateBuilder\bin\Debug\EntityFramework.dll
+C:\dev\JPLAY\PredicateBuilder\PredicateBuilder\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\JPLAY\PredicateBuilder\PredicateBuilder\bin\Debug\EntityFramework.xml
+C:\dev\JPLAY\PredicateBuilder\PredicateBuilder\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\JPLAY\PredicateBuilder\PredicateBuilder\obj\Debug\PredicateBuilder.exe
+C:\dev\JPLAY\PredicateBuilder\PredicateBuilder\obj\Debug\PredicateBuilder.pdb
