@@ -1,7 +1,7 @@
 Query Predicates Builder Example (C#)
 ================================
 
-Simple example to builder dynamic query predicates with filters and orders.
+Simple example to build dynamic query predicates with filters and orders.
 
 Used stuff:
 
